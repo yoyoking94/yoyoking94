@@ -1,12 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yovish MOONESAMY</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [https://yovish.space](https://yovish.space)
+- 🌱 I’m currently learning **Next.js**
+
+- 👨‍💻 All of my projects are available at [https://yovish.space/](https://yovish.space/)
 
 - 📫 How to reach me **https://yovish.space/#contact**
 
+- 📄 Know about my experiences [https://yovish.space/#educationExperience](https://yovish.space/#educationExperience)
+
+- ⚡ Fun fact **When I need to console.log, I console.log('Prout'), because prout is funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/yoyoking94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yoyoking94" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yovish moonesamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yovish moonesamy" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16032045/yoyoking94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16032045/yoyoking94" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
